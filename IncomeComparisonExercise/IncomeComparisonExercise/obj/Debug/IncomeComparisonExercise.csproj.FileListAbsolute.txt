@@ -1,0 +1,7 @@
+C:\Users\User0\source\repos\IncomeComparisonExercise\IncomeComparisonExercise\bin\Debug\IncomeComparisonExercise.exe.config
+C:\Users\User0\source\repos\IncomeComparisonExercise\IncomeComparisonExercise\bin\Debug\IncomeComparisonExercise.exe
+C:\Users\User0\source\repos\IncomeComparisonExercise\IncomeComparisonExercise\bin\Debug\IncomeComparisonExercise.pdb
+C:\Users\User0\source\repos\IncomeComparisonExercise\IncomeComparisonExercise\obj\Debug\IncomeComparisonExercise.csprojAssemblyReference.cache
+C:\Users\User0\source\repos\IncomeComparisonExercise\IncomeComparisonExercise\obj\Debug\IncomeComparisonExercise.csproj.CoreCompileInputs.cache
+C:\Users\User0\source\repos\IncomeComparisonExercise\IncomeComparisonExercise\obj\Debug\IncomeComparisonExercise.exe
+C:\Users\User0\source\repos\IncomeComparisonExercise\IncomeComparisonExercise\obj\Debug\IncomeComparisonExercise.pdb
