@@ -1,0 +1,7 @@
+C:\Users\User0\source\repos\MathExercise\MathExercise\bin\Debug\MathExercise.exe.config
+C:\Users\User0\source\repos\MathExercise\MathExercise\bin\Debug\MathExercise.exe
+C:\Users\User0\source\repos\MathExercise\MathExercise\bin\Debug\MathExercise.pdb
+C:\Users\User0\source\repos\MathExercise\MathExercise\obj\Debug\MathExercise.csprojAssemblyReference.cache
+C:\Users\User0\source\repos\MathExercise\MathExercise\obj\Debug\MathExercise.csproj.CoreCompileInputs.cache
+C:\Users\User0\source\repos\MathExercise\MathExercise\obj\Debug\MathExercise.exe
+C:\Users\User0\source\repos\MathExercise\MathExercise\obj\Debug\MathExercise.pdb
