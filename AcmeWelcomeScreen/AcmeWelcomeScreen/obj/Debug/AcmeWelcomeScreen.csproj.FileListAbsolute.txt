@@ -1,0 +1,6 @@
+C:\Users\User0\source\repos\AcmeWelcomeScreen\AcmeWelcomeScreen\bin\Debug\AcmeWelcomeScreen.exe.config
+C:\Users\User0\source\repos\AcmeWelcomeScreen\AcmeWelcomeScreen\bin\Debug\AcmeWelcomeScreen.exe
+C:\Users\User0\source\repos\AcmeWelcomeScreen\AcmeWelcomeScreen\bin\Debug\AcmeWelcomeScreen.pdb
+C:\Users\User0\source\repos\AcmeWelcomeScreen\AcmeWelcomeScreen\obj\Debug\AcmeWelcomeScreen.csproj.CoreCompileInputs.cache
+C:\Users\User0\source\repos\AcmeWelcomeScreen\AcmeWelcomeScreen\obj\Debug\AcmeWelcomeScreen.exe
+C:\Users\User0\source\repos\AcmeWelcomeScreen\AcmeWelcomeScreen\obj\Debug\AcmeWelcomeScreen.pdb
