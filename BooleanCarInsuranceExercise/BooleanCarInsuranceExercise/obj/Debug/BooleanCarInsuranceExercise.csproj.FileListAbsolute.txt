@@ -1,0 +1,7 @@
+C:\Users\User0\source\repos\BooleanCarInsuranceExercise\BooleanCarInsuranceExercise\bin\Debug\BooleanCarInsuranceExercise.exe.config
+C:\Users\User0\source\repos\BooleanCarInsuranceExercise\BooleanCarInsuranceExercise\bin\Debug\BooleanCarInsuranceExercise.exe
+C:\Users\User0\source\repos\BooleanCarInsuranceExercise\BooleanCarInsuranceExercise\bin\Debug\BooleanCarInsuranceExercise.pdb
+C:\Users\User0\source\repos\BooleanCarInsuranceExercise\BooleanCarInsuranceExercise\obj\Debug\BooleanCarInsuranceExercise.csprojAssemblyReference.cache
+C:\Users\User0\source\repos\BooleanCarInsuranceExercise\BooleanCarInsuranceExercise\obj\Debug\BooleanCarInsuranceExercise.csproj.CoreCompileInputs.cache
+C:\Users\User0\source\repos\BooleanCarInsuranceExercise\BooleanCarInsuranceExercise\obj\Debug\BooleanCarInsuranceExercise.exe
+C:\Users\User0\source\repos\BooleanCarInsuranceExercise\BooleanCarInsuranceExercise\obj\Debug\BooleanCarInsuranceExercise.pdb
