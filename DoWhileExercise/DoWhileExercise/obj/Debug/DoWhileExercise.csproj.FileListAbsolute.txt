@@ -1,0 +1,7 @@
+C:\Users\User0\source\repos\DoWhileExercise\DoWhileExercise\bin\Debug\DoWhileExercise.exe.config
+C:\Users\User0\source\repos\DoWhileExercise\DoWhileExercise\bin\Debug\DoWhileExercise.exe
+C:\Users\User0\source\repos\DoWhileExercise\DoWhileExercise\bin\Debug\DoWhileExercise.pdb
+C:\Users\User0\source\repos\DoWhileExercise\DoWhileExercise\obj\Debug\DoWhileExercise.csprojAssemblyReference.cache
+C:\Users\User0\source\repos\DoWhileExercise\DoWhileExercise\obj\Debug\DoWhileExercise.csproj.CoreCompileInputs.cache
+C:\Users\User0\source\repos\DoWhileExercise\DoWhileExercise\obj\Debug\DoWhileExercise.exe
+C:\Users\User0\source\repos\DoWhileExercise\DoWhileExercise\obj\Debug\DoWhileExercise.pdb
