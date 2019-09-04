@@ -1,0 +1,7 @@
+C:\Users\User0\source\repos\ListArrayExercise\ListArrayExercise\bin\Debug\ListArrayExercise.exe.config
+C:\Users\User0\source\repos\ListArrayExercise\ListArrayExercise\bin\Debug\ListArrayExercise.exe
+C:\Users\User0\source\repos\ListArrayExercise\ListArrayExercise\bin\Debug\ListArrayExercise.pdb
+C:\Users\User0\source\repos\ListArrayExercise\ListArrayExercise\obj\Debug\ListArrayExercise.csprojAssemblyReference.cache
+C:\Users\User0\source\repos\ListArrayExercise\ListArrayExercise\obj\Debug\ListArrayExercise.csproj.CoreCompileInputs.cache
+C:\Users\User0\source\repos\ListArrayExercise\ListArrayExercise\obj\Debug\ListArrayExercise.exe
+C:\Users\User0\source\repos\ListArrayExercise\ListArrayExercise\obj\Debug\ListArrayExercise.pdb
