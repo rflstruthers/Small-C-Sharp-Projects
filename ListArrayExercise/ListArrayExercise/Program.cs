@@ -17,10 +17,14 @@ class Program
         stringList.Add("book of nature photos");
 
         Console.WriteLine("On a scale of 0-4 of how happy you are feeling,\nwhere 0 is the least happy and 4 is the most happy,\nplease rate your happiness:");
-        int hapiness = Convert.ToInt32(Console.ReadLine());
         bool inRange = false;
+        int hapiness;
 
-        while(!inRange)
+        while (!int.TryParse(Console.ReadLine(), out hapiness))
+        {
+            Console.WriteLine("Number was not entered. Please enter a number between 0 and 4.");
+        }
+        do
         {
             switch (hapiness)
             {
@@ -28,20 +32,25 @@ class Program
                     Console.WriteLine("You are feeling " + stringArray[hapiness] + " right now.\n\nOkay, now that we've established how happy you are,\nplease enter a number between 0 and 9 to see how much money we will give you!");
                     inRange = true;
                     break;
-
                 default:
-                    Console.WriteLine("Please enter a number between 0 and 4.");
+                    Console.WriteLine("Number entered is not between 0 ans 4. Please enter a number between 0 and 4.");
                     hapiness = Convert.ToInt32(Console.ReadLine());
                     break;
             }
         }
-        
-        int money = Convert.ToInt32(Console.ReadLine());
-        bool inRange2 = false;
+        while (!inRange);
 
-        while(!inRange2)
+
+        bool inRange2 = false;
+        int money;
+
+        while (!int.TryParse(Console.ReadLine(), out money))
         {
-            switch(money)
+            Console.WriteLine("Number was not entered. Please enter a number between 0 and 9.");
+        }
+        do
+        {
+            switch (money)
             {
                 case int m when m <= 9:
                     Console.WriteLine("Congratulations! You will be getting " + intArray[money] + " dollars in the mail! Spend it wisely.\nPick a number between 0 and 3 to receive a bonus gift!");
@@ -49,16 +58,22 @@ class Program
                     break;
 
                 default:
-                    Console.WriteLine("Please enter a number between 0 and 9.");
+                    Console.WriteLine("Number entered is not between 0 ans 9. Please enter a number between 0 and 9.");
                     money = Convert.ToInt32(Console.ReadLine());
                     break;
             }
         }
+        while (!inRange2);
 
-        int bonus = Convert.ToInt32(Console.ReadLine());
         bool inRange3 = false;
+        int bonus;
 
-        while (!inRange3)
+        while (!int.TryParse(Console.ReadLine(), out bonus))
+        {
+            Console.WriteLine("Number was not entered. Please enter a number between 0 and 3.");
+        }
+
+        do
         {
             switch (bonus)
             {
@@ -68,11 +83,13 @@ class Program
                     break;
 
                 default:
-                    Console.WriteLine("Please enter a number between 0 and 3.");
+                    Console.WriteLine("Number entered is not between 0 ans 3. Please enter a number between 0 and 3.");
                     bonus = Convert.ToInt32(Console.ReadLine());
                     break;
             }
         }
+        while (!inRange3);
+
         Console.ReadLine();
     }
 }
