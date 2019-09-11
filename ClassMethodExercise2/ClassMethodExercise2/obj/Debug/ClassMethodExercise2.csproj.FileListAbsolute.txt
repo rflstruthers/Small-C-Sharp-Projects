@@ -1,0 +1,7 @@
+C:\Users\User0\source\repos\ClassMethodExercise2\ClassMethodExercise2\bin\Debug\ClassMethodExercise2.exe.config
+C:\Users\User0\source\repos\ClassMethodExercise2\ClassMethodExercise2\bin\Debug\ClassMethodExercise2.exe
+C:\Users\User0\source\repos\ClassMethodExercise2\ClassMethodExercise2\bin\Debug\ClassMethodExercise2.pdb
+C:\Users\User0\source\repos\ClassMethodExercise2\ClassMethodExercise2\obj\Debug\ClassMethodExercise2.csprojAssemblyReference.cache
+C:\Users\User0\source\repos\ClassMethodExercise2\ClassMethodExercise2\obj\Debug\ClassMethodExercise2.csproj.CoreCompileInputs.cache
+C:\Users\User0\source\repos\ClassMethodExercise2\ClassMethodExercise2\obj\Debug\ClassMethodExercise2.exe
+C:\Users\User0\source\repos\ClassMethodExercise2\ClassMethodExercise2\obj\Debug\ClassMethodExercise2.pdb
