@@ -1,0 +1,7 @@
+C:\Users\User0\source\repos\ClassMethod5\ClassMethod5\bin\Debug\ClassMethod5.exe.config
+C:\Users\User0\source\repos\ClassMethod5\ClassMethod5\bin\Debug\ClassMethod5.exe
+C:\Users\User0\source\repos\ClassMethod5\ClassMethod5\bin\Debug\ClassMethod5.pdb
+C:\Users\User0\source\repos\ClassMethod5\ClassMethod5\obj\Debug\ClassMethod5.csprojAssemblyReference.cache
+C:\Users\User0\source\repos\ClassMethod5\ClassMethod5\obj\Debug\ClassMethod5.csproj.CoreCompileInputs.cache
+C:\Users\User0\source\repos\ClassMethod5\ClassMethod5\obj\Debug\ClassMethod5.exe
+C:\Users\User0\source\repos\ClassMethod5\ClassMethod5\obj\Debug\ClassMethod5.pdb
