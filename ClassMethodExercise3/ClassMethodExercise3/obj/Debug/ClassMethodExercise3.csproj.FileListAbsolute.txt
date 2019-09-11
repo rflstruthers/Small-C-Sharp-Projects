@@ -1,0 +1,7 @@
+C:\Users\User0\source\repos\ClassMethodExercise3\ClassMethodExercise3\bin\Debug\ClassMethodExercise3.exe.config
+C:\Users\User0\source\repos\ClassMethodExercise3\ClassMethodExercise3\bin\Debug\ClassMethodExercise3.exe
+C:\Users\User0\source\repos\ClassMethodExercise3\ClassMethodExercise3\bin\Debug\ClassMethodExercise3.pdb
+C:\Users\User0\source\repos\ClassMethodExercise3\ClassMethodExercise3\obj\Debug\ClassMethodExercise3.csprojAssemblyReference.cache
+C:\Users\User0\source\repos\ClassMethodExercise3\ClassMethodExercise3\obj\Debug\ClassMethodExercise3.csproj.CoreCompileInputs.cache
+C:\Users\User0\source\repos\ClassMethodExercise3\ClassMethodExercise3\obj\Debug\ClassMethodExercise3.exe
+C:\Users\User0\source\repos\ClassMethodExercise3\ClassMethodExercise3\obj\Debug\ClassMethodExercise3.pdb
