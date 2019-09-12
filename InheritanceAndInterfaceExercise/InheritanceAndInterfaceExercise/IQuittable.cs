@@ -4,11 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace InheritanceExercise
+namespace InheritanceAndInterfaceExercise
 {
-    public class Employee : Person
+    interface IQuittable
     {
-        public int Id { get; set; }
-
+        void Quit();
     }
 }

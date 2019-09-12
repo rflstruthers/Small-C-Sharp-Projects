@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace InheritanceExercise
+namespace InheritanceAndInterfaceExercise
 {
     class Program
     {
@@ -15,6 +15,10 @@ namespace InheritanceExercise
 
             //calling superclass method SayName() on employee object
             employee.SayName();
+
+            //Use polymorphism to create an object of type IQuittable and call the Quit() method on it.
+            IQuittable quittable = new Employee();
+            quittable.Quit();
 
 
             Console.ReadLine();
