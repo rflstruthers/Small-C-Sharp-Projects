@@ -6,26 +6,31 @@ using System.Threading.Tasks;
 
 namespace InheritanceAndInterfaceExercise
 {
-    public class Employee : Person, IQuittable
+    //make employee class take generic type parameter
+    public class Employee<T> : Person, IQuittable
     {
         public int Id { get; set; }
+        
+        //property Things with list of generic data type
+        public List<T> Things { get; set; }
 
-        //Overriding == operator to compare two employee's ID's
-        public static bool operator == (Employee employee1, Employee employee2)
-        {
-            if (employee1.Id == employee2.Id)
-                return true;
-            else
-                return false;
-        }
-        //Must have pair of == and != when overriding ==
-        public static bool operator != (Employee employee1, Employee employee2)
-        {
-            if (employee1.Id != employee2.Id)
-                return true;
-            else
-                return false;
-        }
+
+        ////Overriding == operator to compare two employee's ID's
+        //public static bool operator == (Employee employee1, Employee employee2)
+        //{
+        //    if (employee1.Id == employee2.Id)
+        //        return true;
+        //    else
+        //        return false;
+        //}
+        ////Must have pair of == and != when overriding ==
+        //public static bool operator != (Employee employee1, Employee employee2)
+        //{
+        //    if (employee1.Id != employee2.Id)
+        //        return true;
+        //    else
+        //        return false;
+        //}
 
 
 
