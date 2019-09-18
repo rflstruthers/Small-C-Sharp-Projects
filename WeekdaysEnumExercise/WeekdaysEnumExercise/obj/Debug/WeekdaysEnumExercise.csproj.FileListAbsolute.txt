@@ -1,0 +1,7 @@
+C:\Users\User0\source\repos\WeekdaysEnumExercise\WeekdaysEnumExercise\bin\Debug\WeekdaysEnumExercise.exe.config
+C:\Users\User0\source\repos\WeekdaysEnumExercise\WeekdaysEnumExercise\bin\Debug\WeekdaysEnumExercise.exe
+C:\Users\User0\source\repos\WeekdaysEnumExercise\WeekdaysEnumExercise\bin\Debug\WeekdaysEnumExercise.pdb
+C:\Users\User0\source\repos\WeekdaysEnumExercise\WeekdaysEnumExercise\obj\Debug\WeekdaysEnumExercise.csprojAssemblyReference.cache
+C:\Users\User0\source\repos\WeekdaysEnumExercise\WeekdaysEnumExercise\obj\Debug\WeekdaysEnumExercise.csproj.CoreCompileInputs.cache
+C:\Users\User0\source\repos\WeekdaysEnumExercise\WeekdaysEnumExercise\obj\Debug\WeekdaysEnumExercise.exe
+C:\Users\User0\source\repos\WeekdaysEnumExercise\WeekdaysEnumExercise\obj\Debug\WeekdaysEnumExercise.pdb
