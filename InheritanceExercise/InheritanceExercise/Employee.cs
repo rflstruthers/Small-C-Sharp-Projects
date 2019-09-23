@@ -11,7 +11,19 @@ namespace InheritanceAndInterfaceExercise
 
     public class Employee : Person, IQuittable
     {
+        //constructor callchain
+        public Employee() : this("John", "Doe", 0)
+        { }
+        //constructor
+        public Employee(string firstName, string lastName, int id)
+        {
+            FirstName = firstName;
+            LastName = lastName;
+            Id = id;
+        }
+        //property
         public int Id { get; set; }
+
         
         ////property Things with list of generic data type
         //public List<T> Things { get; set; }

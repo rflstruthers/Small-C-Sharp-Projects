@@ -11,17 +11,26 @@ namespace InheritanceAndInterfaceExercise
     {
         static void Main(string[] args)
         {
-            //ask user for a number, log that number in a text file, read the number back to the user from the text file
-            Console.WriteLine("Please enter an employee ID number: ");
-            string id = Console.ReadLine();
-            using (StreamWriter file = new StreamWriter(@".\log.txt", true))
-            {
-                file.WriteLine(id);
-            }
-            using (StreamReader file = new StreamReader(@".\log.txt", true))
-            {
-                Console.WriteLine(file.ReadToEnd());
-            }
+            //making "employer" a constant, using var to instantiate Employee class
+            const string employer = "ACME Software Development";
+            var employee = new Employee();
+            Console.WriteLine("Name: {0} {1}\nID: {2}\nEmployer: {3}", employee.FirstName, employee.LastName, employee.Id, employer);
+            
+
+
+
+
+            ////ask user for a number, log that number in a text file, read the number back to the user from the text file
+            //Console.WriteLine("Please enter an employee ID number: ");
+            //string id = Console.ReadLine();
+            //using (StreamWriter file = new StreamWriter(@".\log.txt", true))
+            //{
+            //    file.WriteLine(id);
+            //}
+            //using (StreamReader file = new StreamReader(@".\log.txt", true))
+            //{
+            //    Console.WriteLine(file.ReadToEnd());
+            //}
 
 
 
