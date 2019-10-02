@@ -1,0 +1,37 @@
+﻿@using CarInsuranceMVCExercise.ViewModels
+@model List<ApplicantVm>
+
+<div class="row no-gutters m-3">
+    <div class="card col-sm-12 col-md-10 col-lg-6 mx-auto shadow">
+        <div class="card-header text-center">
+            <h3 class="m-0">Applicants who received quotes</h3>
+        </div>
+        <div class="card-body">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th scope="col">First Name</th>
+                        <th scope="col">Last Name</th>
+                        <th scope="col">Email Address</th>
+                        <th scope="col">Quote</th>
+                    </tr>
+                </thead>
+                @foreach (var applicant in Model)
+                {
+                    <tbody>
+                        <tr>
+
+                            <td>@applicant.FirstName</td>
+                            <td>@applicant.LastName</td>
+                            <td>@applicant.EmailAddress</td>
+                            <td>@applicant.Quote</td>
+
+
+                        </tr>
+                    </tbody>
+                }
+            </table>
+        </div>
+    </div>
+</div>
+
