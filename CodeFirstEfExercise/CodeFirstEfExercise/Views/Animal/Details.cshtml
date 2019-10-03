@@ -1,0 +1,61 @@
+﻿@model CodeFirstEfExercise.Models.Animal
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Animal</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Species)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Species)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Adoptions)
+        </dt>
+
+        <dd>
+            <table class="table">
+                <tr>
+                    <th>Bio</th>
+                    <th>Age</th>
+                    <th>Gender</th>
+                </tr>
+                @foreach (var item in Model.Adoptions)
+                {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Info.Bio)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Info.Age)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Info.Gender)
+                </td>
+            </tr>
+                }
+            </table>
+        </dd>
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
