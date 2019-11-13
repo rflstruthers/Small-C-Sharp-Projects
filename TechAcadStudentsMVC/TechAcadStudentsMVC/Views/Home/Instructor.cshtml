@@ -1,0 +1,29 @@
+﻿<!--Get acess to the model passed from the Home Controller-->
+@model TechAcadStudentsMVC.Models.Instructor
+
+@{
+    ViewBag.Title = "Instructor";
+}
+
+<h2>Instructor</h2>
+
+<h5>
+    Details for Instrutor with ID: @ViewBag.Id
+</h5>
+
+<p>
+    Further details about the Instructor
+</p>
+
+<ul>
+    <li>
+        Id: @Model.Id @*Reference to the Model passed from the Home Controller*@
+    </li>
+    <li>
+        First Name: @Model.FirstName
+    </li>
+    <li>
+        Last Name: @Model.LastName
+    </li>
+</ul>
+

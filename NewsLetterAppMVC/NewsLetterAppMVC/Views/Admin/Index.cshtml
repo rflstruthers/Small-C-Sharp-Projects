@@ -1,0 +1,40 @@
+﻿@using NewsLetterAppMVC.ViewModels
+@model List<SignupVm>
+
+<div class="row no-gutters m-3">
+    <div class="card col-sm-12 col-md-10 col-lg-6 mx-auto shadow">
+        <div class="card-header text-center">
+            <h5 class="m-0">Sign-Ups</h5>
+        </div>
+        <div class="card-body">
+            <!--Loops through each entry in the NewsLetterSignUp List and displays each item-->
+            @foreach (var signup in Model)
+            {
+                //Create a form, calling the Unsubscribe method inside the Admin Controller
+                using (Html.BeginForm("Unsubscribe", "Admin", FormMethod.Post))
+                {
+                    //Add input to form which matched Id
+                    <input type="hidden" name="Id" value="@signup.Id" />
+
+                    <div class="row mb-3">
+                        <div class="col-2">
+                            @signup.FirstName
+                        </div>
+                        <div class="col">
+                            @signup.LastName
+                        </div>
+                        <div class="col-4">
+                            @signup.EmailAddress
+                        </div>
+                        <div class="col">
+                            <button type="submit" class="'btn btn-danger btn-block">
+                                Unsubscribe
+                            </button>
+                        </div>
+                    </div>
+                }
+            }
+
+        </div>
+    </div>
+</div>
