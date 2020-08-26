@@ -157,3 +157,4 @@ C:\Users\User0\Documents\GitHub\Small-C-Sharp-Projects\CarInsuranceMVCExercise\C
 C:\Users\User0\Documents\GitHub\Small-C-Sharp-Projects\CarInsuranceMVCExercise\CarInsuranceMVCExercise\obj\Debug\CarInsuranceMVCExercise.csproj.CopyComplete
 C:\Users\User0\Documents\GitHub\Small-C-Sharp-Projects\CarInsuranceMVCExercise\CarInsuranceMVCExercise\obj\Debug\CarInsuranceMVCExercise.dll
 C:\Users\User0\Documents\GitHub\Small-C-Sharp-Projects\CarInsuranceMVCExercise\CarInsuranceMVCExercise\obj\Debug\CarInsuranceMVCExercise.pdb
+C:\Users\User0\Documents\GitHub\Small-C-Sharp-Projects\CarInsuranceMVCExercise\CarInsuranceMVCExercise\obj\Debug\CarInsuranceMVCExercise.csproj.CoreCompileInputs.cache

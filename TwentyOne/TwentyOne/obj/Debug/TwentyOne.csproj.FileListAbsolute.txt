@@ -17,3 +17,4 @@ C:\Users\User0\Documents\GitHub\Small-C-Sharp-Projects\TwentyOne\TwentyOne\obj\D
 C:\Users\User0\Documents\GitHub\Small-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CopyComplete
 C:\Users\User0\Documents\GitHub\Small-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
 C:\Users\User0\Documents\GitHub\Small-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
+C:\Users\User0\Documents\GitHub\Small-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache

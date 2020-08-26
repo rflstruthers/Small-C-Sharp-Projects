@@ -5,3 +5,9 @@ C:\Users\User0\source\repos\ClassMethodExercise\ClassMethodExercise\obj\Debug\Cl
 C:\Users\User0\source\repos\ClassMethodExercise\ClassMethodExercise\obj\Debug\ClassMethodExercise.csproj.CoreCompileInputs.cache
 C:\Users\User0\source\repos\ClassMethodExercise\ClassMethodExercise\obj\Debug\ClassMethodExercise.exe
 C:\Users\User0\source\repos\ClassMethodExercise\ClassMethodExercise\obj\Debug\ClassMethodExercise.pdb
+C:\Users\User0\Documents\GitHub\Small-C-Sharp-Projects\ClassMethodExercise\ClassMethodExercise\bin\Debug\ClassMethodExercise.exe.config
+C:\Users\User0\Documents\GitHub\Small-C-Sharp-Projects\ClassMethodExercise\ClassMethodExercise\bin\Debug\ClassMethodExercise.exe
+C:\Users\User0\Documents\GitHub\Small-C-Sharp-Projects\ClassMethodExercise\ClassMethodExercise\bin\Debug\ClassMethodExercise.pdb
+C:\Users\User0\Documents\GitHub\Small-C-Sharp-Projects\ClassMethodExercise\ClassMethodExercise\obj\Debug\ClassMethodExercise.csprojAssemblyReference.cache
+C:\Users\User0\Documents\GitHub\Small-C-Sharp-Projects\ClassMethodExercise\ClassMethodExercise\obj\Debug\ClassMethodExercise.exe
+C:\Users\User0\Documents\GitHub\Small-C-Sharp-Projects\ClassMethodExercise\ClassMethodExercise\obj\Debug\ClassMethodExercise.pdb
